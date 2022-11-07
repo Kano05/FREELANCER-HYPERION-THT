@@ -10,7 +10,7 @@
 
 ## Positive aspects of the submission
 
-Your solution is almost there. With some minor tweaking, I was able to get it working, after which it worked as desired. However, in the current state without the modifications to get it working, It does not meet the task requirements, so you will need to make some minor changes to get it to work.
+You are on the right track. With some minor adjustment, I was able to get it working, after which it worked as desired. However, in the current state without the modifications to get it working, It does not meet the task requirements, so you will need to make some minor changes to get it to work as required.
 
 ## Aspects of the submission that could be improved
 
